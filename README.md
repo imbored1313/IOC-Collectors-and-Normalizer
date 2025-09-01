@@ -6,7 +6,7 @@ The goal is to get hands-on experience with **threat feed ingestion, IOC enrichm
 
 ---
 
-## ✨ Features
+## Features
 - Pulls IOCs from public feeds:
   - [URLhaus](https://urlhaus.abuse.ch/) (malicious URLs)  
   - [Feodo Tracker](https://feodotracker.abuse.ch/) (C2 IPs)  
@@ -21,7 +21,7 @@ The goal is to get hands-on experience with **threat feed ingestion, IOC enrichm
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 - Python 3.9+
